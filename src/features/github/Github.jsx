@@ -40,7 +40,7 @@ function Github() {
           </div>
           <div className="hidden pl-2 text-textColor md:block">
             <h2 className="md:text-2xl">
-              {user.bio || "Kya be lodu."}
+              {user.bio || "Destroy. Erase. Improvise."}
             </h2>
           </div>
         </div>
